@@ -1,0 +1,14 @@
+Buatlah program perpustakaan sederhana yang memiliki class Book.
+Setiap buku memiliki atribut: title, author, dan yearPublished.
+Buat constructor untuk menginisialisasi variable yang ada.
+Sediakan metode displayBookInfo untuk menampilkan informasi buku.
+Buatlah kelas Library yang menyimpan daftar buku (menggunakan ArrayList).
+Tambahkan metode addBook dan showAllBooks.
+Pada main program, sediakan menu,
+1. add book
+2. detele book by title
+3. search book by title
+4. search book by author
+5. search book by year( from … until … )
+6. show all book
+0. exit

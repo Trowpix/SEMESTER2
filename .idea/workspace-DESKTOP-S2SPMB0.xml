@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d75be6b6-7f77-4279-8b21-6cbb2c791d44" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2t1S8J01A81p9TmdFzkwJ0vpBKn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Abstraction_Interface.executor": "Run",
+    "Application.AnonymusFunct.executor": "Run",
+    "Application.Anonymus_class.executor": "Run",
+    "Application.Kuliah.Class.AnonymousLambda.Main.executor": "Run",
+    "Application.Kuliah.Class.Encapsulation.Main.executor": "Run",
+    "Application.Kuliah.Class.Inheritence.Main.executor": "Run",
+    "Application.Kuliah.Praktikums.Praktikum1C.Soal1.Main.executor": "Run",
+    "Application.Kuliah.Praktikums.Praktikum1C.Soal2.Main.executor": "Run",
+    "Application.Kuliah.Praktikums.Praktikum2A.test.executor": "Run",
+    "Application.Kuliah.Praktikums.Praktikum3A.Main.executor": "Run",
+    "Application.Kuliah.Praktikums.Praktikum4A.Main.executor": "Run",
+    "Application.Lambastuff.executor": "Run",
+    "Application.Latihans.BattleShip.Main.executor": "Run",
+    "Application.Latihans.FarmLand.Main.executor": "Run",
+    "Application.Latihans.FlowerShop.Main.executor": "Run",
+    "Application.Latihans.LatihanUTS.Soal1.Main.executor": "Run",
+    "Application.Latihans.LatihanUTS.Soal2.Main.executor": "Run",
+    "Application.Latihans.LatihanUTS.Soal3.Main.executor": "Run",
+    "Application.Latihans.LatihanUTS.Soal4.Main.executor": "Run",
+    "Application.Latihans.Soal3.Main.executor": "Run",
+    "Application.Latihans.UAS2024.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main2.executor": "Run",
+    "Application.Main3.executor": "Run",
+    "Application.Soal2.executor": "Run",
+    "Application.Square.executor": "Run",
+    "Application.Start.executor": "Run",
+    "Application.famr.executor": "Run",
+    "Application.lowest_rollcount.executor": "Run",
+    "Application.lowestroll.executor": "Run",
+    "Application.main.executor": "Run",
+    "Application.ngajar.executor": "Run",
+    "Application.raw.executor": "Run",
+    "Application.soal1.executor": "Run",
+    "Application.soal3.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.testnextline.executor": "Run",
+    "Application.testwhile.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/ONEDRIVE/OneDrive - peter.petra.ac.id/BasDat/Kalkulator",
+    "onboarding.tips.debug.path": "E:/ONEDRIVE/OneDrive - peter.petra.ac.id/Programming/SEMESTER_II/src/Main.java",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.AnonymusFunct">
+    <configuration name="AnonymusFunct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kuliah.Class.Anonymus_class_Lambda.AnonymusFunct" />
+      <module name="SEMESTER_II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kuliah.Class.Anonymus_class_Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Anonymus_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kuliah.Class.Anonymus_class_Lambda.Anonymus_class" />
+      <module name="SEMESTER_II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kuliah.Class.Anonymus_class_Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kuliah.Class.AnonymousLambda.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kuliah.Class.AnonymousLambda.Main" />
+      <module name="SEMESTER_II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kuliah.Class.AnonymousLambda.Anonymous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambastuff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kuliah.Class.AnonymousLambda.Lambda.Lambastuff" />
+      <module name="SEMESTER_II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kuliah.Class.AnonymousLambda.Lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kuliah.Praktikums.Praktikum8A.Main3" />
+      <module name="SEMESTER_II" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kuliah.Praktikums.Praktikum8A.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnonymusFunct" />
+        <item itemvalue="Application.Anonymus_class" />
+        <item itemvalue="Application.Lambastuff" />
+        <item itemvalue="Application.Kuliah.Class.AnonymousLambda.Main" />
+        <item itemvalue="Application.Main3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d75be6b6-7f77-4279-8b21-6cbb2c791d44" name="Changes" comment="" />
+      <created>1739517928726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739517928726</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Latihans/Soal1/Player.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Kuliah/Praktikums/Praktikum6A/Main.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Latihans/FarmLand/Player.java</url>
+          <line>43</line>
+          <properties class="Latihans.FarmLand.Player" method="Move">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Kuliah/Class/Anonymus_class_Lambda/Anonymus_class.java</url>
+          <line>3</line>
+          <properties class="Kuliah.Class.Anonymus_class_Lambda.Anonymus_class" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+Buatlah sistem toko online yang memiliki kelas berikut:
+Product: Memiliki atribut name, price, dan metode displayInfo.
+Electronics memiliki atribut tambahan warrantyPeriod.
+Clothing memiliki atribut tambahan size dan color.
+Buat kelas ShoppingCart yang menyimpan daftar produk menggunakan ArrayList.
+Implementasikan metode addProduct(Product p) dan showCart().
+Pada main program, sediakan menu,
+1. Add item
+Add Electronic
+Add Clothing
+2. show Cart
+0. exit

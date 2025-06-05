@@ -1,0 +1,16 @@
+Buatlah program akademik yang memiliki struktur berikut:
+Class Person dengan atribut name dan age.
+Class Student memiliki atribut tambahan studentID dan major.
+Class Lecturer memiliki atribut tambahan lecturerID dan department.
+Implementasikan metode introduce di setiap kelas untuk menampilkan identitas masing-masing.
+Gunakan 1 arraylist
+Pada main program, tersedia menu sebagai berikut:
+1. Tambah data
+1. Student
+2. Lecturer
+3. Person
+2. Delete data
+Masukan ID
+3. Introduce semua data
+Panggil fungsi introduce dengan loop untuk semua data
+0. Exit
