@@ -78,15 +78,19 @@ public class Main {
         return UUID.randomUUID().toString().substring(0,8);
     }
 
-    enum SubjectSelection{
-
+    public enum SubjectSelection{
+        MIDTERM_EXAM,
+        ENDTERM_EXAM,
+        TEST1,
+        TEST_2,
+        PROJECT
     }
 
     public enum MajorSelection{
         COMMUNICATION,
         INDUSTRY,
         BUSINESS,
-        HOTEL,
+        HOTEL
     }
 
     public static MajorSelection MajorSelect(){
